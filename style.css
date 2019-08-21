@@ -1,0 +1,51 @@
+body {
+	margin: 0 ;
+	padding-left: 200px;
+	padding-right: 200px;
+}
+.body {
+	position: relative;
+	width: 1100px;
+	height: 700px;
+	
+	
+}
+
+.content-right {
+
+	width: 70%;
+	height: auto;
+	float: left;
+	
+}
+.main-div  , .div-1 , .div-2 , .div-3 , .div-4 , .div-5 {
+	position: absolute;
+	padding-top: 50px;
+	padding-left: 50px;
+	padding-right: 50px
+}
+.main-div {
+	
+	display: block;
+	
+}
+.div-1 , .div-2 , .div-3 , .div-4 , .div-5 {
+	width: 1110px;
+	height: 670px;
+	display: none;
+}
+.box {
+	width: 200px;
+	height: 280px;
+	padding-top: 10px;
+	padding-left: 50px;
+	float: left;
+	background: white;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+ img{
+	width: 100px;
+	height: 100px;
+}
+
